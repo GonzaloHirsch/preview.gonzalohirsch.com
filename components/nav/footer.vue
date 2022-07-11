@@ -6,10 +6,6 @@
     </footer>
 </template>
 
-<script setup>
-import Heart from '../icons/heart.vue';
-</script>
-
 <style scoped>
 .page-footer-divider {
     @apply mx-auto absolute top-0 left-0 right-0;
