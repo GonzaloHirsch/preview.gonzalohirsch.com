@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://preview.gonzalohirsch.com/sitemap.xml
