@@ -1,11 +1,6 @@
 <template>
     <main id="main">
-        <SectionsHero />
-        <SectionsAbout />
-        <SectionsExperience />
-        <SectionsPassion />
-        <SectionsProjects />
-        <SectionsContact />
+        <SectionsWip />
     </main>
 </template>
 
